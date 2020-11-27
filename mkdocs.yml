@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: Hortalizas
+nav:
+    - Inicio : index.md
+    - Pimiento : pimiento.md
+    - Calabacin : calabacin.md
+    - Berenjena : berenjena.md
+    - Judia : judia.md 
+
+theme : readthedocs
